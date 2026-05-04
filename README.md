@@ -23,14 +23,15 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masa-futa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masa-futa&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=masa-futa&theme=tokyonight&hide_border=false"/>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masa-futa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/masa-futa)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masa-futa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/masa-futa)
+
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=masa-futa&theme=tokyonight&hide_border=true)](https://github.com/masa-futa)
+
+</div>
 
 ---
 
