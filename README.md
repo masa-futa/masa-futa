@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Hi%20there%20👋&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20masa-futa's%20GitHub&descAlignY=55&descAlign=50)
 
-## 🚀 Mobile & Web Developer
+## 🚀 Mobile Developer
 
 > Passionate about creating beautiful and functional applications across platforms
 
@@ -11,13 +11,13 @@
 ### 💻 Tech Stack
 
 #### Mobile Development
-[![Mobile Skills](https://skillicons.dev/icons?i=swift,kotlin,flutter,dart,firebase&theme=dark)](https://skillicons.dev)
+[![Mobile Skills](https://skillicons.dev/icons?i=swift,kotlin,flutter,dart,firebase,supabase&theme=dark)](https://skillicons.dev)
 
 #### Web Development
 [![Web Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css&theme=dark)](https://skillicons.dev)
 
 #### Tools & Others
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,python&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,githubactions,figma,python&theme=dark)](https://skillicons.dev)
 
 ---
 
