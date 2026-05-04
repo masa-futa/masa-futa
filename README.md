@@ -21,20 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masa-futa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/masa-futa)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masa-futa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/masa-futa)
-
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=masa-futa&theme=tokyonight&hide_border=true)](https://github.com/masa-futa)
-
-</div>
-
----
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=masa-futa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1"/>
